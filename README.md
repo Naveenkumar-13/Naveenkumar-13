@@ -2,12 +2,12 @@
 <h3 align="center">Aspiring Java Developer | Associate Software Engineer</h3>
 
 # 💫 About Me:
-🎓 I'm a Computer Science graduate and fresher passionate about Software Development with a strong interest in building scalable applications  
+🎓 I'm a Computer Science graduate and fresher passionate about Software Development  
 🔭 Currently working on Java and Full Stack Web Development projects  
 🌱 Learning Spring Boot, REST APIs, and Data Structures & Algorithms  
 🤝 Open to collaborating on open-source and beginner-friendly projects  
 💬 Ask me about Java, MySQL, SQL, HTML, CSS, and JavaScript  
-⚡ Passionate about building real-world projects and continuously improving my coding skills 🚀
+⚡ Passionate about building real-world projects and continuously improving my coding skills
 📫 Reach me at:**palurunaveenkumar13@gmail.com**  
 
 ## 🌐 Socials:
