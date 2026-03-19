@@ -1,5 +1,4 @@
-## HI I'M NAVEENKUMAR PALURU 👋
-<h1 align="center">Hi 👋, I'm Naveenkumar Paluru</h1>
+<h1 align="center">HI 👋, I'M NAVEENKUMAR PALURU</h1>
 <h3 align="center">Aspiring Java Developer | Associate Software Engineer</h3>
 
 # 💫 About Me:
@@ -48,9 +47,9 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Naveenkumar-13&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveenkumar-13&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveenkumar-13&theme=dark&hide_border=false&include_all_commits=true&count_private=false
+    https://github-readme-stats.vercel.app/api?username=Naveenkumar-13&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="170"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Naveenkumar-13&theme=dark&hide_border=true" height="170"/>
 </p>
 
