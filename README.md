@@ -2,13 +2,13 @@
 <h3 align="center">Aspiring Java Developer | Associate Software Engineer</h3>
 
 # 💫 About Me:
-🎓 I'm a Computer Science graduate and fresher passionate about software Software Development with a strong interest in building scalable applications  
+🎓 I'm a Computer Science graduate and fresher passionate about Software Development with a strong interest in building scalable applications  
 🔭 Currently working on Java and Full Stack Web Development projects  
 🌱 Learning Spring Boot, REST APIs, and Data Structures & Algorithms  
 🤝 Open to collaborating on open-source and beginner-friendly projects  
 💬 Ask me about Java, MySQL, SQL, HTML, CSS, and JavaScript  
 ⚡ Passionate about building real-world projects and continuously improving my coding skills 🚀
-📫 Reach me at: **palurunaveenkumar13@gmail.com**  
+📫 Reach me at:**palurunaveenkumar13@gmail.com**  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveenkumarpaluru)
@@ -48,8 +48,7 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveenkumar-13&theme=dark&hide_border=false&include_all_commits=true&count_private=false
-    https://github-readme-stats.vercel.app/api?username=Naveenkumar-13&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveenkumar-13&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="170"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Naveenkumar-13&theme=dark&hide_border=true" height="170"/>
 </p>
 
