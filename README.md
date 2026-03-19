@@ -8,7 +8,6 @@
 🤝 Open to collaborating on open-source and beginner-friendly projects  
 💬 Ask me about Java, MySQL, SQL, HTML, CSS, and JavaScript  
 ⚡ Passionate about building real-world projects and continuously improving my coding skills
-📫 Reach me at:**palurunaveenkumar13@gmail.com**  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveenkumarpaluru)
